@@ -21,8 +21,8 @@ and a whole lot of data management.
 
 ### things i've done
 
-some of my work includes
-- unstructured turn taking ~~ _giving computers social skills__
-- natural language understanding ~~ _(getting your bot to understand what people wants)_
-- building the chat aid from the IT crowd fit in with football lovers ~~ _did you see that ludicrous display last night_
+  some of my work includes
+    - unstructured turn taking ~~ _giving computers social skills__
+    - natural language understanding ~~ _getting your bot to understand what people want_
+    - building the chat aid from the IT crowd fit in with football lovers ~~ _did you see that ludicrous display last night_
 
