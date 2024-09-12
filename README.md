@@ -19,16 +19,55 @@ and a whole lot of data preprocessing 🥲
 </div>
 <br/>
 
-### ⚒️ some of the things i've done
+#### ⚒️ some of the things i've done
 
-  
-    - **building chatbots from scratch:** <em>getting robots to talk to you</em>
-    - **training generative adversarial models:** <em>making models that fight each other to get better</em>
-    - **predicting conversational turn taking:** <em>giving computers social skills</em>
+<table align='centre'>
+<tr>
+<th> technical </th>
+<th> lay </th>
+</tr>
+<tr>
+<td>
+
+building chatbots from scratch
+
+</td>
+<td>
+
+getting robots to talk to you
+
+</td>
+</tr>
+<tr>
+<td>
+
+training generative adversarial models
+
+</td>
+<td>
+
+making models that fight each other to get better
+
+</td>
+</tr>
+<tr>
+<td>
+
+predicting conversational turn taking
+
+</td>
+<td>
+
+giving computers social skills
+
+</td>
+</tr>
+</table>
 
 
-### my tutorials
+#### 📖 my tutorials
 
 i love working in machine learning, but its easy to get too specialised, working in the same domains, with the same models. 
 
-because of that, i've started a repo where i put my self-guided learning in tutorial form. maybe it'll be helpful to you as well!
+because of that, i've started a [repo](https://github.com/elliottgruzin/tutorials) where i put my self-guided learning in tutorial form. maybe it'll be helpful to you as well!
+
