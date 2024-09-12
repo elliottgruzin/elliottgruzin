@@ -21,7 +21,7 @@ and a whole lot of data preprocessing 🥲
 
 #### ⚒️ some of the things i've done
 
-<table align='centre'>
+<table align='centre' style="margin: 0px auto">
 <tr>
 <th> technical </th>
 <th> lay </th>
